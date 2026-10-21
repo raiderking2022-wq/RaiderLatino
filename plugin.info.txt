@@ -1,0 +1,4 @@
+Plugin: Raider-Latino
+Versión: 1.0
+Idioma: Español (Latino)
+Tipos: Películas, Series
